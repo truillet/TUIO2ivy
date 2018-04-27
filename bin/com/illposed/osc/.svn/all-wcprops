@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc
+END
+OSCPacket.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCPacket.class
+END
+OSCBundle.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCBundle.class
+END
+OSCPortIn.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCPortIn.class
+END
+OSCPortOut.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCPortOut.class
+END
+OSCCanNotListenException.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCCanNotListenException.class
+END
+OSCMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCMessage.class
+END
+OSCPort.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCPort.class
+END
+OSCListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/OSCListener.class
+END

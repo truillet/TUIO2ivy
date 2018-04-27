@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/utility
+END
+OSCPacketDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/utility/OSCPacketDispatcher.class
+END
+OSCByteArrayToJavaConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/utility/OSCByteArrayToJavaConverter.class
+END
+OSCJavaToByteArrayConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/com/illposed/osc/utility/OSCJavaToByteArrayConverter.class
+END

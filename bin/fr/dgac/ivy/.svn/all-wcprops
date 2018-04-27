@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy
+END
+SelfIvyClient$Runner.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/SelfIvyClient$Runner.class
+END
+Ivy$Once.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/Ivy$Once.class
+END
+SelfIvyClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/SelfIvyClient.class
+END
+IvyMessageListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyMessageListener.class
+END
+IvyWatcher$PacketSender.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyWatcher$PacketSender.class
+END
+IvyWatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyWatcher.class
+END
+IvyException.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyException.class
+END
+Closer.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/Closer.class
+END
+WaiterClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/WaiterClient.class
+END
+Waiter.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/Waiter.class
+END
+IvyApplicationAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyApplicationAdapter.class
+END
+IvyApplicationListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyApplicationListener.class
+END
+Ivy$Domain.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/Ivy$Domain.class
+END
+IvyClient$PingCallbackHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyClient$PingCallbackHolder.class
+END
+IvyClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyClient.class
+END
+Ivy.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/Ivy.class
+END
+PingCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/PingCallback.class
+END
+IvyBindListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ihcs/!svn/ver/42/TUIO2ivy/bin/fr/dgac/ivy/IvyBindListener.class
+END
